@@ -16,7 +16,8 @@
         "tilemap.g.ts",
         "images.g.jres",
         "images.g.ts",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
